@@ -1,4 +1,4 @@
-# Smal-factorials
+# Small-factorials
 
 You are asked to calculate factorials of some small positive integers.
 
